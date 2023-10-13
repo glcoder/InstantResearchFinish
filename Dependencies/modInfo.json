@@ -1,0 +1,7 @@
+{
+  "identifier": "com.glcoder.instantresearchfinish",
+  "displayName": "InstantResearchFinish",
+  "assemblies": [
+    "InstantResearchFinish.dll"
+  ]
+}
